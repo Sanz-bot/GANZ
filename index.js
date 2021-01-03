@@ -13,8 +13,8 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const   BotName   = 'tsukasa;
-const    instagram    = 'https://instagram.com/iksanzz' ;
+const BotName = 'tsukasa;
+const instagram = 'https://instagram.com/iksanzz' ;
 const telegram = 'https://t.me/Sanzmjr'; 
 const kapanbotaktif = 'SESUAI KEMAUAN MASTER IKSAN'; 
 const youtube = 'https://www.youtube.com/c/reuz_id';
